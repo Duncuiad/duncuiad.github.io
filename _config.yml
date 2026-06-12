@@ -38,6 +38,8 @@ collections:
     output: true
   review:
     output: true
+  math:
+    output: true
 
 # Build settings
 theme: minima
